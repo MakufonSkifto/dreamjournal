@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
                 val title = allData.getString(1)
                 val desc = allData.getString(2)
                 val date = allData.getString(3)
-                
+
                 val cardView = CardView(this)
 
                 val layoutParams = LayoutParams(
